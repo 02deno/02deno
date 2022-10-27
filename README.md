@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 		return Istanbul_Turkey()
 	
 	def Ambitions():
-		LearnJapanese()
+		LearnPlayGuitar()
 		CreateApp()
 		FinishMyBook()
 		# Assume 10 more awesome ambitions here  ;)
