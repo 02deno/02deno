@@ -89,11 +89,10 @@ You can click the Preview link to take a look at your changes.
 
  
 ## Other Stuff
-  - :octocat: [My Resume]()
 
 
 ![Deniz's github stats](https://github-readme-stats.vercel.app/api?username=02deno&show_icons=true&hide=[%22issues%22])
  
  -------
 
-Last Edited on: 10/10/2022
+Last Edited on: 16/02/2024
